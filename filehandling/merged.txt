@@ -1,0 +1,6 @@
+This is a new log entry.
+This is a new log entry.
+
+This is a test.
+Writing to a file.
+
